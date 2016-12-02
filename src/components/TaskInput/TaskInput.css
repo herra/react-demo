@@ -1,0 +1,17 @@
+.TaskInput {
+	margin-left: 10px;
+	margin-right: 10px;
+}
+
+.TaskInputContainer {
+	margin:20px;
+}
+
+.TaskInputLabel {	
+	vertical-align: middle;
+}
+
+.TaskInputBtn {
+	margin-left: 10px;
+	margin-right: 10px;	
+}

@@ -1,0 +1,36 @@
+{
+  "name": "react-demo",
+  "version": "0.0.1",
+  "private": true,
+  "devDependencies": {
+    "react-scripts": "0.7.0"
+  },
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "jquery": "^3.1.1",
+    "react": "^15.4.1",
+    "react-dom": "^15.4.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "description": "`npm install -g create-react-app` `create-react-app hello-world`",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/herra/react-demo.git"
+  },
+  "keywords": [
+    "reactjs",
+    "demo"
+  ],
+  "author": "Dimitar Nikolov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/herra/react-demo/issues"
+  },
+  "homepage": "https://github.com/herra/react-demo#readme"
+}
